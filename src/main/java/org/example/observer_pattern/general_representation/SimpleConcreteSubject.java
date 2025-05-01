@@ -1,9 +1,9 @@
-package org.example.observer_pattern;
+package org.example.observer_pattern.general_representation;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class SimpleConcreteSubject implements Subject{
+public class SimpleConcreteSubject implements Subject {
     private List<Observer> observerList;
     private int value;
 

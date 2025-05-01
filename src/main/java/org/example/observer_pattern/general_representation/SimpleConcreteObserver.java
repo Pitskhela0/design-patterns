@@ -1,4 +1,4 @@
-package org.example.observer_pattern;
+package org.example.observer_pattern.general_representation;
 
 public class SimpleConcreteObserver implements Observer {
     private int value;
