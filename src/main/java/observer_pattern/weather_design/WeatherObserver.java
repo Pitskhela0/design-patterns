@@ -1,0 +1,5 @@
+package observer_pattern.weather_design;
+
+public interface WeatherObserver {
+    public void update();
+}
